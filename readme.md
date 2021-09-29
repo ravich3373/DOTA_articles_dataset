@@ -1,3 +1,6 @@
+## Defence Of The Ancients (DOTA) articles dataset
+ - With the hope that, this dataset helps your models make better choices.
+
 ### Dataset Details
  - Dataset is available as a single text file [here](https://drive.google.com/file/d/1Cwv5_4VxbpozOB0B0zVWMYQGUu_u1tvr/view?usp=sharing)
  - As of the moment the dataset is madeup of articles parsed from dotabuff.
